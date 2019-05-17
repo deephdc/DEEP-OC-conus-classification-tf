@@ -15,7 +15,7 @@
 
         "The training dataset has been provided by the [Natural Science Museum of Madrid](http://www.mncn.csic.es/) and ",
         "it consists on a dataset containing images of 68 species of conus covering three different regions: the Panamic ",
-        "region; the South African region; and the Western atlantic and mediterranean region.\n",
+        "region; the South African region; and the Western Atlantic and Mediterranean region.\n",
 
         "<img class='fit', src='https://raw.githubusercontent.com/deephdc/DEEP-OC-conus-classification-tf/master/images/conus.png'/>\n",
 
