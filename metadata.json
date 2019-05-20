@@ -1,16 +1,16 @@
 {
-    "title": "DEEP OC Plant Classification",
+    "title": "DEEP OC Conus Classification",
     "summary": "A trained Xception net on Tensorflow/Keras to classify conus.",
     "description": [
-        "Citizen science has become a powerful force for scientific inquiry, providing researchers with access to a vast array of",
-        "data points while connecting non scientists to the real process of science. This citizen-researcher relationship",
+        "Citizen science has become a powerful force for scientific inquiry, providing researchers with access to a vast array ",
+        "of data points while connecting non scientists to the real process of science. This citizen-researcher relationship ",
         "creates a very interesting synergy, allowing for the creation, execution, and analysis of research projects. ",
         "With this in mind, a Convolutional Neural Network has been trained to identify conus marine snails at species ",
         "level [1] in collaboration with the [Natural Science Museum of Madrid](http://www.mncn.csic.es/). The taxonomy ",
         "of these snails has changed significantly several times during recent years and the introduction of Deep Learning",
         "techniques allowing to classify them is a very valuable tool for the experts.\n",
 
-        "This Docker container contains a trained Convolutional Neural network optimized for plant identification using",
+        "This Docker container contains a trained Convolutional Neural network optimized for conus identification using",
         "images. The architecture used is an Xception [2] network using Keras on top of Tensorflow.\n",
 
         "The training dataset has been provided by the [Natural Science Museum of Madrid](http://www.mncn.csic.es/) and ",
