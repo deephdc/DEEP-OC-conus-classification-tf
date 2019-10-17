@@ -13,6 +13,9 @@
         "This Docker container contains a trained Convolutional Neural network optimized for conus identification using",
         "images. The architecture used is an Xception [2] network using Keras on top of Tensorflow.\n",
 
+        "The PREDICT method expects an RGB image as input (or the url of an RGB image) and will return a JSON with ",
+        "the top 5 predictions.\n",
+
         "The training dataset has been provided by the [Natural Science Museum of Madrid](http://www.mncn.csic.es/) and",
         "it consists on a dataset containing images of 68 species of conus covering three different regions: the Panamic",
         "region; the South African region; and the Western Atlantic and Mediterranean region.\n",
